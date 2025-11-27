@@ -1,5 +1,7 @@
 # Python
 __pycache__/
+__pycache__
+
 *.py[cod]
 *.pyo
 *.pyd
@@ -12,7 +14,6 @@ venv/
 .DS_Store
 .ipynb_checkpoints/
 
-# Artifacts
-models/*.pkl
+
 reports/
 
