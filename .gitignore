@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+
+# IDE/OS
+.DS_Store
+.ipynb_checkpoints/
+
+# Artifacts
+models/*.pkl
+reports/
+
