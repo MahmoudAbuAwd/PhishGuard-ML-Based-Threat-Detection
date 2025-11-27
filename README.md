@@ -1,4 +1,4 @@
-# PhishGuard — ML-Based Website Threat Detection
+# PhishGuard — ML-Based Threat Detection
 
 ## Overview
 This repository detects phishing websites using classical ML models trained on URL-derived features. It replaces the notebook workflow with reproducible Python scripts and a simple pipeline.
